@@ -242,7 +242,7 @@ public class TresEnRaya extends JFrame {
 			return;
 		} else if (finJuego()==2){
 			estadoControles(true);
-			JOptionPane.showMessageDialog(this, "¡Empate!");
+			JOptionPane.showMessageDialog(this, "¡Han empatadoooooo!");
 		}
 		//CAMBIAR DE TURNO
 		if(turno==0){
